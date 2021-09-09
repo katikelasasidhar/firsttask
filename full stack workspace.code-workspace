@@ -1,0 +1,27 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "visual studio"
+		},
+		{
+			"path": "html"
+		},
+		{
+			"path": "CSS"
+		},
+		{
+			"path": "FLEXBOXANDGRID"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "webdevelopment"
+	},
+	"extensions": {
+		"recommendations": [
+			"abusaidm.html-snippets"
+		]
+	}
+}

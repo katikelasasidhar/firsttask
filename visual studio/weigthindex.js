@@ -1,0 +1,3 @@
+var g='abcdefghijklmnopqrstuvwxyz1234567890ABCDEFGHIJKLMNOPQRSTUVWXY';
+VarDate
+
